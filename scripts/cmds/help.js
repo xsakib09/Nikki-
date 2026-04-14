@@ -8,7 +8,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.18",
-    author: "ShAn", 
+    author: "SAmi", 
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -62,7 +62,7 @@ module.exports = {
       msg += `\n🫧𝘽𝙊𝙏 𝙉𝘼𝙈𝙀🫧: ♡𝕮𝖍𝖔𝖈𝖔𝖑𝖆𝖙𝖊 𝕼𝖚𝖊𝖊𝖓♡`;
       msg += `\n🔹 𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍 🔹`;
       msg += `\n 	 					`;
-      msg += `\n~𝙉𝘼𝙈𝙀:✰ '𝗘𝘄'𝗿 𝗦𝗵𝗔𝗻'𝘀 ✰`;
+      msg += `\n~𝙉𝘼𝙈𝙀:✰ '𝗘𝘄'𝗿 𝗦ami ✰`;
       msg += `\n~𝙁𝘽: m.me/Sh4n.Dev1`;
 
       await message.reply({
